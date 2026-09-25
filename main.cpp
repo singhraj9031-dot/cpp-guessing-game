@@ -11,7 +11,7 @@ int main() {
     int attempts = 0;
 
     cout << "=================================" << endl;
-    cout << "  Welcome to Number Guessing Game  " << endl;
+    cout << "  Welcome to My C++ Game  " << endl;
     cout << "=================================" << endl;
     cout << "1 se 100 ke beech ka number guess karo!\n" << endl;
 
